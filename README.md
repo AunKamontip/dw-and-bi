@@ -1,5 +1,5 @@
-# Data Warehouse and Business Intekkigence
+# Data Warehouse and Business Intelligence
 
-## Heading 2
+## Kamontip Montrisa
 
-### Heading 3
+### 65199160171
