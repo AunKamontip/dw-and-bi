@@ -16,4 +16,4 @@ sudo chmod 777 .
 docker-compose up
 ```
 
-port 8888
+เข้า port 8888
