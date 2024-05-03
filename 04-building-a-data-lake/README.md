@@ -1,5 +1,6 @@
 # Building a Data Lake
 
+ ### Building an ETL Pipeline to Transform Data in Data Lake
 ## Getting Started
 
 $ cd 04-building-a-data-lake
