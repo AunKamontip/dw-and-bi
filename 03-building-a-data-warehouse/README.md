@@ -1,6 +1,6 @@
 # Building a Data Warehouse
 
- ### Building an ETL Pipeline for a Cloud Data Warehouse (Google BigQuery)Page
+ ### Building an ETL Pipeline for a Cloud Data Warehouse (Google BigQuery)
 
 ## Getting Started
 
